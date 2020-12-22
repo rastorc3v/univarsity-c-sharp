@@ -1,0 +1,16 @@
+C:\Users\minec\Desktop\Education\3 kurs\OOP\Lab7\Lab7_2\Lab7_2\bin\Debug\netcoreapp3.1\Lab7_2.exe
+C:\Users\minec\Desktop\Education\3 kurs\OOP\Lab7\Lab7_2\Lab7_2\bin\Debug\netcoreapp3.1\Lab7_2.deps.json
+C:\Users\minec\Desktop\Education\3 kurs\OOP\Lab7\Lab7_2\Lab7_2\bin\Debug\netcoreapp3.1\Lab7_2.runtimeconfig.json
+C:\Users\minec\Desktop\Education\3 kurs\OOP\Lab7\Lab7_2\Lab7_2\bin\Debug\netcoreapp3.1\Lab7_2.runtimeconfig.dev.json
+C:\Users\minec\Desktop\Education\3 kurs\OOP\Lab7\Lab7_2\Lab7_2\bin\Debug\netcoreapp3.1\Lab7_2.dll
+C:\Users\minec\Desktop\Education\3 kurs\OOP\Lab7\Lab7_2\Lab7_2\bin\Debug\netcoreapp3.1\Lab7_2.pdb
+C:\Users\minec\Desktop\Education\3 kurs\OOP\Lab7\Lab7_2\Lab7_2\obj\Debug\netcoreapp3.1\Lab7_2.csprojAssemblyReference.cache
+C:\Users\minec\Desktop\Education\3 kurs\OOP\Lab7\Lab7_2\Lab7_2\obj\Debug\netcoreapp3.1\Lab7_2.Form1.resources
+C:\Users\minec\Desktop\Education\3 kurs\OOP\Lab7\Lab7_2\Lab7_2\obj\Debug\netcoreapp3.1\Lab7_2.csproj.GenerateResource.cache
+C:\Users\minec\Desktop\Education\3 kurs\OOP\Lab7\Lab7_2\Lab7_2\obj\Debug\netcoreapp3.1\Lab7_2.AssemblyInfoInputs.cache
+C:\Users\minec\Desktop\Education\3 kurs\OOP\Lab7\Lab7_2\Lab7_2\obj\Debug\netcoreapp3.1\Lab7_2.AssemblyInfo.cs
+C:\Users\minec\Desktop\Education\3 kurs\OOP\Lab7\Lab7_2\Lab7_2\obj\Debug\netcoreapp3.1\Lab7_2.csproj.CoreCompileInputs.cache
+C:\Users\minec\Desktop\Education\3 kurs\OOP\Lab7\Lab7_2\Lab7_2\obj\Debug\netcoreapp3.1\Lab7_2.dll
+C:\Users\minec\Desktop\Education\3 kurs\OOP\Lab7\Lab7_2\Lab7_2\obj\Debug\netcoreapp3.1\Lab7_2.pdb
+C:\Users\minec\Desktop\Education\3 kurs\OOP\Lab7\Lab7_2\Lab7_2\obj\Debug\netcoreapp3.1\Lab7_2.genruntimeconfig.cache
+C:\Users\minec\Desktop\Education\3 kurs\OOP\Lab7\Lab7_2\Lab7_2\obj\Debug\netcoreapp3.1\Lab7_2.Form2.resources
